@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{ "predicate": { "damaged": 0, "damage": 6.402048655569782E-4 }, "model": "item/diamond_sword/1" },
+		{ "predicate": { "damaged": 0, "damage": 0.0012804097311139564 }, "model": "item/diamond_sword/2" },
+		{ "predicate": { "damaged": 0, "damage": 0.0019206145966709346 }, "model": "item/diamond_sword/3" },
+		{ "predicate": { "damaged": 0, "damage": 0.002560819462227913 }, "model": "item/diamond_sword/4" },
+		{ "predicate": { "damaged": 0, "damage": 0.003201024327784891 }, "model": "item/diamond_sword/5" },
+		{ "predicate": { "damaged": 0, "damage": 0.0038412291933418692 }, "model": "item/diamond_sword/6" },
+		{ "predicate": { "damaged": 0, "damage": 0.004481434058898848 }, "model": "item/diamond_sword/7" },
+		{ "predicate": { "damaged": 0, "damage": 0.005121638924455826 }, "model": "item/diamond_sword/8" },
+		{ "predicate": { "damaged": 0, "damage": 0.005761843790012804 }, "model": "item/diamond_sword/9" },
+		{ "predicate": { "damaged": 0, "damage": 0.006402048655569782 }, "model": "item/diamond_sword/10" },
+		{ "predicate": { "damaged": 0, "damage": 0.007042253521126761 }, "model": "item/diamond_sword/11" },
+		{ "predicate": { "damaged": 0, "damage": 0.0076824583866837385 }, "model": "item/diamond_sword/12" },
+		{ "predicate": { "damaged": 0, "damage": 0.008322663252240717 }, "model": "item/diamond_sword/13" },
+		{ "predicate": { "damaged": 0, "damage": 0.008962868117797696 }, "model": "item/diamond_sword/14" },
+		{ "predicate": { "damaged": 0, "damage": 0.009603072983354673 }, "model": "item/diamond_sword/15" },
+		{ "predicate": { "damaged": 0, "damage": 0.010243277848911651 }, "model": "item/diamond_sword/16" },
+		{ "predicate": { "damaged": 0, "damage": 0.01088348271446863 }, "model": "item/diamond_sword/17" },
+		{ "predicate": { "damaged": 0, "damage": 0.011523687580025609 }, "model": "item/diamond_sword/18" },
+		{ "predicate": { "damaged": 0, "damage": 0.012163892445582587 }, "model": "item/diamond_sword/19" },
+		{ "predicate": { "damaged": 0, "damage": 0.012804097311139564 }, "model": "item/diamond_sword/20" },
+		{ "predicate": { "damaged": 0, "damage": 0.013444302176696543 }, "model": "item/diamond_sword" },
+		{ "predicate": { "damaged": 1, "damage": 0}, "model": "item/diamond_sword"}
+	]
+}
